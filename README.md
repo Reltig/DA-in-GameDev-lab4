@@ -71,12 +71,16 @@
 
 -Построим графики
 
+####OR
 ![or](img/OrGraphic.png)
 
+####AND
 ![and](img/AndGraphic.png)
 
+####NAND
 ![nand](img/NandGraphic.png)
 
+####XOR
 ![xor](img/XorGraphic.png)
 
 
